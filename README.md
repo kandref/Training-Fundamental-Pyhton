@@ -1,1 +1,1 @@
-# Training-Fundamental-Pyhton
+# Segmentasi-Kartu-Kredit
