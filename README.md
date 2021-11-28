@@ -1,1 +1,0 @@
-# Segmentasi-Kartu-Kredit
